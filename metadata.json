@@ -2,5 +2,7 @@
   "name": "Nexa WebStudio",
   "description": "Premium digital experiences, web development, and design services for ambitious brands.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
