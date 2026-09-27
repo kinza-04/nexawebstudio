@@ -30,10 +30,9 @@ export function Hero() {
           transition={{ delay: 0.4 }}
           className="text-5xl md:text-7xl lg:text-8xl font-bold text-white mb-8 tracking-tighter"
         >
-          WE BUILD DIGITAL<br />
-          EXPERIENCES THAT<br />
+          Nexa WebStudio<br />
           <span className="text-transparent bg-clip-text bg-linear-to-r from-blue-400 via-purple-400 to-blue-400">
-            MOVE BRANDS FORWARD.
+            Digital Experiences for Ambitious Brands.
           </span>
         </motion.h1>
 
