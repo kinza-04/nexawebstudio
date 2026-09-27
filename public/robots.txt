@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nexawebstudio.vercel.app/sitemap.xml
